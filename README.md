@@ -17,9 +17,17 @@ Install dependencies
 $ npm i
 ```
 
-Bundle source files
+Install the neu cli
 
 ```bash
-$ npm run build
+$ npm i -g @neutralinojs/neu
 ```
+
+Build the application
+
+```bash 
+$ neu build
+```
+
+Run the application by executing neutralino executable.
       
